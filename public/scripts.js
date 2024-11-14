@@ -14,7 +14,7 @@ var flappy1
 function preload () {
   backgroundImage = loadImage( "Landscape.png");
   flappyImage = loadImage("FlappyBird pix.png");
-  gameOverImage = loadImage( "Gmae over screen.png");
+  gameOverImage = loadImage( "Game over screen.png");
 }
 
 function setup() {
